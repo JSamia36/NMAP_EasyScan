@@ -12,11 +12,11 @@ vv = very verbose (more detail)
 
 Vulnerability Scan = --script vuln
 
-Installation:
-git clone 
+# Installation:
+**(1)** git clone https://github.com/JSamia36/NMAP_EasyScan.git
 
-cd NMAP_EasyScan
+**(2)** cd NMAP_EasyScan
 
-pip install -r requirements.txt
+**(3)** pip install -r requirements.txt
 
-python3 main.py
+**(4)** python3 main.py
