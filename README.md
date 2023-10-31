@@ -2,7 +2,7 @@
 This is a tool to make NMAP scanning easier and faster
 
 Please keep in mind this is version 1.0 and will be slowly 
-receiving updates.
+receiving updates. Programming also isn't a strong suite so this will serve as a learning ground for me.
 
 # SCANS
 Basic Scan = -sC -sV -vv
