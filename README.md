@@ -7,7 +7,9 @@ receiving updates.
 # SCANS
 Basic Scan = -sC -sV -vv
 sC = Setting script to default
+
 sV = Detect version of services
+
 vv = very verbose (more detail)
 
 Vulnerability Scan = --script vuln
