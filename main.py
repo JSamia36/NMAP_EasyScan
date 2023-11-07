@@ -1,4 +1,3 @@
-from tkinter import *
 import argparse
 import subprocess
 import os
@@ -14,7 +13,6 @@ while True:
 		break
 	else:
 		print('Please Select a Valid Option')
-
 
 print(f'Using file: {IP_file}')
 print('Current working directory:', os.getcwd())
